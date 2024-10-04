@@ -4,4 +4,5 @@ def = is_factor (a, b):
         return True
     else:
         return False
-        
+
+# List all of the factors of a value
